@@ -1,2 +1,2 @@
-# book-recommendation
 This project aims to practice the knowledge acquired from data analysis and data science studies.
+The datasets were obtained in Kaggle trough the following link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset.
